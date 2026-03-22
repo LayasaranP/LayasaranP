@@ -3,9 +3,11 @@
 ### 🧠 AI / Machine Learning Engineer
 I specialize in building **Generative AI and RAG** solutions. My work focuses on bridging the gap between research and production-ready AI systems.
 
-- 🚀 I’m currently building **a RAG-based application** for intelligent document retrieval.
-- ⚗️ Researching **Large Language Model (LLM) Optimization** and Agentic Workflows.
-- ⚡ Fun fact: I spend 10% of my time training models and 90% of my time cleaning data.
+- 🚀 Currently building a **RAG-based intelligent document retrieval system** with scalable architecture.
+- ⚗️ Exploring **LLM Optimization, Quantization, and Agentic Workflows**.
+- 🏗️ Strong focus on **production deployment, MLOps, and system design**.
+- 🧩 Interested in building end-to-end AI systems combining LLMs, real-time data, and scalable cloud infrastructure.
+- ⚡ Fun fact: I spend 10% of my time training models and 90% cleaning data.
 - 📫 Reach me at: [linkedin.com/in/layasaran-p](https://www.linkedin.com/in/layasaran-p/)
 
 # 🛠 My AI Toolbox
@@ -41,6 +43,9 @@ I specialize in building **Generative AI and RAG** solutions. My work focuses on
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/🕸️%20LangGraph-000000?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/🛠️%20LangSmith-FF6B6B?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
