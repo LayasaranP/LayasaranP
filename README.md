@@ -25,6 +25,7 @@ I specialize in building **Generative AI and RAG** solutions. My work focuses on
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
+![Unsloth](https://img.shields.io/badge/Unsloth-4169E1?style=for-the-badge&logo=lightning&logoColor=white)
 ![PIL](https://img.shields.io/badge/PIL-ImageProcessing-green?style=for-the-badge)
 
 ### 📊 Data Science & Visualization
